@@ -1,3 +1,7 @@
+## Purpose
+Modify contracts to allow attachment of IPFS header. 
+
+
 ## Table of Contents
 * [Audit](#audit)
 * [Token](#token)
